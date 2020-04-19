@@ -7,7 +7,7 @@ http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
 </head>
 <body>
 <!--this is not my design-->
-<h1>Jazz Legends - Miles Davids</h1>
+
 <p id="sales">Miles Davis iknown to many so as one of the world's finest jazz musicians
 and an outstanding trumpet player. He also earned great respect in the world 
 of music as an innovative bandleader and composer. </p> 
