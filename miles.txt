@@ -8,7 +8,7 @@ http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
 <body>
 <!--this is not my design-->
 <h1>Jazz Legends - Miles Davids</h1>
-<p id="sales">Miles Davis iknown to many as one of the world's finest jazz musicians
+<p id="sales">Miles Davis iknown to many so as one of the world's finest jazz musicians
 and an outstanding trumpet player. He also earned great respect in the world 
 of music as an innovative bandleader and composer. </p> 
 <hr /> 
@@ -17,7 +17,7 @@ of music as an innovative bandleader and composer. </p>
 <p id="accounts">In the 1950s Mikes was known for a warm, rich, wispy sound and was able
 to vary the colour of his sound, pitch. He was also adept in using a Harmon mute.
 In the 1960s Miles began to play more in the upper register. In the 1969, he 
-even incorporated the use of electronic instruments in his music.</p>
+even incorporated the use of electronic instruments in his music. he filed for bankrupsy in 2001</p>
 <h2>Davis the Painter</h2>
   <hr />
 <p> <em>Miles' love</em> was not only for music; he is also considered a fine painter.
